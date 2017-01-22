@@ -195,6 +195,15 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\akashi.jpg" />
+    <Content Include="Images\anime_11.jpg" />
+    <Content Include="Images\anime_14.jpg" />
+    <Content Include="Images\anime_15.jpg" />
+    <Content Include="Images\aomine.jpg" />
+    <Content Include="Images\art3.jpeg" />
+    <Content Include="Images\art4.jpeg" />
+    <Content Include="Images\art5.jpeg" />
+    <Content Include="Images\kuroko.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
